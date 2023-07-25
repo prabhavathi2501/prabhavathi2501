@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prabhavathi2501
 - 👀 I’m interested in ...mean stack
 - 🌱 I’m currently learning learn full ...
-- 💞️ I’m looking to collaborate on .fullstack dev..
+- 💞️ I’m looking to collaborate on .fullstack dev.student
 - 📫 How to reach me prabhashok2501@gmail.com ...
 
 <!---
