@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhavathi2501" alt="prabhavathi2501" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack web developer(MEAN)**
+- 🌱 I’m currently learning **Full stack web developer**
 
 - 📫 How to reach me **prabhashok2501@gmail.com**
 
